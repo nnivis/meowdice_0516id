@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.2D.Animation.Runtime::UnityEngine.U2D.Animation.SpriteLibrarySourceAsset
+  m_Library:
+  - m_Name: Body
+    m_Hash: 999990412
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: White
+      m_Hash: 51307168
+      m_Sprite: {fileID: 7589559306751368694, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7589559306751368694, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+    - m_Name: Black
+      m_Hash: 138712364
+      m_Sprite: {fileID: -6882252427041289182, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6882252427041289182, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  - m_Name: Eyes
+    m_Hash: 120101800
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Blue1
+      m_Hash: 244285932
+      m_Sprite: {fileID: 8835542464392198044, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8835542464392198044, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+    - m_Name: Purple1
+      m_Hash: 98702356
+      m_Sprite: {fileID: 8842755252438831423, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8842755252438831423, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  - m_Name: Tail
+    m_Hash: 470096739
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: WhiteTail
+      m_Hash: 289077692
+      m_Sprite: {fileID: -6047618956949891352, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6047618956949891352, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+    - m_Name: BlackTail
+      m_Hash: 556479069
+      m_Sprite: {fileID: -6879546004150994001, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6879546004150994001, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  - m_Name: AccessoryFront
+    m_Hash: 857868586
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: BlueJ
+      m_Hash: 156772696
+      m_Sprite: {fileID: -2302385136634675600, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2302385136634675600, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+    - m_Name: PurpleS
+      m_Hash: 643699808
+      m_Sprite: {fileID: 4899113703285426171, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 4899113703285426171, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  - m_Name: AccessoryBack
+    m_Hash: 113526103
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Blue1
+      m_Hash: 244285932
+      m_Sprite: {fileID: -7271192624409983078, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7271192624409983078, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+    - m_Name: Purple1
+      m_Hash: 98702356
+      m_Sprite: {fileID: -5924501234745618703, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5924501234745618703, guid: 4d6081adb0902a64f91d8deb1d2b6a5c, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 639098113856988656
+  m_Version: 1

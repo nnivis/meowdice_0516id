@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b796164a5f72649ab2b60eafdb8d4e, type: 3}
+  m_Name: DiceViewContent
+  m_EditorClassIdentifier: Assembly-CSharp::CodeBase.Essence.Dice.DiceViewContent
+  _stateSprites:
+  - {fileID: -1176493040738142238, guid: fc5e19315f8c7df458b5fd7c4bfc4f3f, type: 3}
+  - {fileID: -176656179110635969, guid: fc5e19315f8c7df458b5fd7c4bfc4f3f, type: 3}
+  - {fileID: -2445270664069382584, guid: fc5e19315f8c7df458b5fd7c4bfc4f3f, type: 3}
+  _pointSprites:
+  - {fileID: 585526378219278122, guid: fc5e19315f8c7df458b5fd7c4bfc4f3f, type: 3}
+  - {fileID: 530638391595760233, guid: fc5e19315f8c7df458b5fd7c4bfc4f3f, type: 3}
+  - {fileID: 6877043428483873757, guid: fc5e19315f8c7df458b5fd7c4bfc4f3f, type: 3}
+  - {fileID: 1299973982417878700, guid: fc5e19315f8c7df458b5fd7c4bfc4f3f, type: 3}
+  - {fileID: -8626223825725498132, guid: fc5e19315f8c7df458b5fd7c4bfc4f3f, type: 3}
+  - {fileID: 1670398524818962327, guid: fc5e19315f8c7df458b5fd7c4bfc4f3f, type: 3}
+  _fallback: {fileID: 0}

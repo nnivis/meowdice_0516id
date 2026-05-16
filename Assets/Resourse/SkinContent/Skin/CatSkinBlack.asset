@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbb79e7f58544ea1911ecd342c24bca2, type: 3}
+  m_Name: CatSkinBlack
+  m_EditorClassIdentifier: Assembly-CSharp::CodeBase.Domain.CatSkin.Content.CatSkinDefinition
+  _skinId: 2
+  _body:
+    _category: Body
+    _label: Black
+  _tail:
+    _category: Tail
+    _label: BlackTail
+  _eyes:
+    _category: Eyes
+    _label: Purple1
+  _accessoryFront:
+    _category: AccessoryFront
+    _label: PurpleS
+  _accessoryBack:
+    _category: AccessoryBack
+    _label: Purple1
